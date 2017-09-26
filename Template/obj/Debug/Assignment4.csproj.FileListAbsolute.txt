@@ -1,0 +1,80 @@
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Assimp32.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Assimp64.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\Balls.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\ShipDiffuse.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\Bloom.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\Arial16.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\Ship.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Template.exe
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Template.pdb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.D3DCompiler.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct2D1.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct3D11.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.DXGI.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Compiler.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Game.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Graphics.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Input.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct3D9.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\AssimpNet.dll
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct3D11.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.DXGI.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Game.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Graphics.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Input.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Toolkit.Compiler.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.D3DCompiler.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct2D1.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\SharpDX.Direct3D9.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\AssimpNet.xml
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\obj\Debug\Template.exe
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\obj\Debug\Template.pdb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\skybox.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\SkyBoxTexture.tkb
+J:\SP2014-2015\CS361A\wilsonl\Template\Template\bin\Debug\Content\point.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Assimp32.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Assimp64.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\Bloom.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\skybox.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\point.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\Arial16.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\Ship.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\SkyBoxTexture.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\Balls.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Content\ShipDiffuse.tkb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Template.exe
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\Template.pdb
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Compiler.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Game.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Graphics.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Input.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\AssimpNet.dll
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Game.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Graphics.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Input.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Toolkit.Compiler.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\bin\Debug\AssimpNet.xml
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\obj\Debug\Template.exe
+C:\Users\Luke\Desktop\Class Folder for Graphics\assignment4\Template\obj\Debug\Template.pdb
+C:\Users\Luke\Source\Repos\cubes\Template\obj\Debug\Template.exe
+C:\Users\Luke\Source\Repos\cubes\Template\obj\Debug\Template.pdb
